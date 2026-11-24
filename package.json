@@ -18,5 +18,8 @@
     "react-router-dom": "latest",
     "tailwindcss": "latest",
     "vite": "latest"
+  },
+  "devDependencies": {
+    "supabase": "^3.4.0"
   }
 }
